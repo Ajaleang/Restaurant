@@ -11,7 +11,7 @@
   "author": "Armando Alean",
   "license": "ISC",
   "devDependencies": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
